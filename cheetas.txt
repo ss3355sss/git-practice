@@ -1,2 +1,8 @@
-this is cheetas
+team: Cheetas
 
+manager: Laura
+
+members:
+- Ryan
+- Anna
+- Justin
